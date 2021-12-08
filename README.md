@@ -14,6 +14,6 @@
   <img align="center" alt="Chrys-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
   
-<div> 
-  ![Snake animation](https://github.com/chrystianrbueno/chrystianrbueno/blob/output/github-contribution-grid-snake.svg)
+<div align="center"> 
+  <img src="https://github.com/chrystianrbueno/chrystianrbueno/blob/output/github-contribution-grid-snake.svg">
 </div>

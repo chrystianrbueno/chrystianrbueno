@@ -1,5 +1,3 @@
-## Hi, I’m @chrystianrbueno
-
 <div align="center">
   <a href="https://github.com/chrystianrbueno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrystianrbueno&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -12,6 +10,7 @@
   <img align="center" alt="Chrys-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Chrys-Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg">
   <img align="center" alt="Chrys-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Chrys-Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
 </div>
   
 <div align="center"> 

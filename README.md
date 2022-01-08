@@ -13,7 +13,3 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Kafka" height="30" width="40" src="https://user-images.githubusercontent.com/73067604/145207340-64d06c52-f00e-46e2-8b63-a6cb95de63ac.png">
 </div>
-
-<div align="center"> 
-  <img src="https://github.com/chrystianrbueno/chrystianrbueno/blob/output/github-contribution-grid-snake.svg">
-</div>
